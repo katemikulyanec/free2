@@ -384,7 +384,8 @@ h3 {
     transition: all 0.2s linear;
 }
 
-.contact-form__submit:hover {
+.contact-form__submit:hover,
+.contact-form__submit:focus{
     background-color: #ffffff;
     color: #0099da;
 
