@@ -638,6 +638,8 @@ footer .contact-links svg {
     /*--HEADER--*/
     .header-main {
         padding-top: 16px;
+        position: fixed;
+        width: 100%;
     }
 
 
